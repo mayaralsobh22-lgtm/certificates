@@ -8,6 +8,5 @@
 | Introduction to Data Science (Beginner) | Satr, Tuwaiq Academy | Aug 2025 | 2 |
 | Data Analysis Bootcamp | SIYAQ | Jul 2026 | 9 |
 
-![Power BI 101](power-bi-101.jpg)
-![Python 104](python-104.jpg)
+
 
